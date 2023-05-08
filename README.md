@@ -1,8 +1,8 @@
 # StreamingSIMDExtensions
 
 ### We write two versions of the function:
-I traditional
-II SSE
+I traditional<br>
+II SSE<br>
 We multiply:
 * vector by vector
 * vector by matrix
